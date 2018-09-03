@@ -1,4 +1,4 @@
-#  Skill Reporting Example: Skill Name (Ex: 8x8 Dot-Array)
+#  Skill Name
 
 Author: FirstName LastName, YYYY-MM-DD
 
